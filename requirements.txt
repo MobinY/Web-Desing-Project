@@ -1,4 +1,4 @@
-Django==1.10.4
+Django==1.11.29
 django-graphos==0.3.28
 django-solo==1.1.2
 django-widget-tweaks==1.4.1
